@@ -1,3 +1,4 @@
+### Java 中文情感分类(or 文本分类)：Alink 中文情感分析、HanLP 中文情感分析、SparkML 中文情感分析(待定)
 - cn.edu.neu.alink：Alink 中文情感分析
 - cn.edu.neu.bayes：在 [https://github.com/marwincn/pubsenti-finder](https://github.com/marwincn/pubsenti-finder) 代码基础上，略作修改后的贝叶斯情感分类，效果不太好，不予介绍
 - cn.edu.neu.hanlp：HanLP 中文情感分析
